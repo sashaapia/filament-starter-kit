@@ -1,7 +1,7 @@
 # ENGLISH
 # Filament Laravel Application
 
-This is a Laravel application with Filament for the admin panel. Follow the steps below to set up the project on a new computer after cloning the repository.
+This is a default Laravel application with Filament for the admin panel and an admin user automatically created. It's designed to help setup a new Filament project quickly. Follow the steps below to set up the project on a new computer after cloning the repository.
 
 ---
 
@@ -115,8 +115,7 @@ Enjoy using your Filament-powered Laravel application!
 # FRANÇAIS
 # Application Laravel avec Filament
 
-Il s'agit d'une application Laravel utilisant Filament pour le panneau d'administration. Suivez les étapes ci-dessous pour configurer le projet sur un nouvel ordinateur après avoir cloné le dépôt.
-
+Il s'agit d'une application de base Laravel utilisant Filament pour le panneau d'administration avec un utilisateur admin créé automatiquement. Il est fait pour aider à commencer un nouveau projet Filament rapidement. Suivez les étapes ci-dessous pour configurer le projet sur un nouvel ordinateur après avoir cloné le dépôt.
 ---
 
 ## Guide d'installation
