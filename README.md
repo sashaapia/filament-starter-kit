@@ -46,7 +46,7 @@ Create a `.env` file by copying the example:
 cp .env.example .env
 ```
 
-Update the `.env` file with the following:
+Update the `.env` file with the following (if using mySQL):
 - **Database Configuration:**
   ```env
   DB_CONNECTION=mysql
@@ -56,6 +56,14 @@ Update the `.env` file with the following:
   DB_USERNAME=your_database_user
   DB_PASSWORD=your_database_password
   ```
+
+Use this instead if you plan to use sqlite:
+- **Database Configuration:**
+  ```env
+    DB_CONNECTION=sqlite
+  ```
+
+DB_CONNECTION=sqlite
 
 - Update other configurations (like `APP_NAME`, `APP_URL`) as needed.
 
