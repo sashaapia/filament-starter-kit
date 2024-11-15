@@ -9,12 +9,12 @@ This is a Laravel application with Filament for the admin panel. Follow the step
 ### 1. Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone <repository-url>
+git clone https://github.com/sashaapia/filament-starter-kit.git
 ```
 
 Navigate into the project directory:
 ```bash
-cd <project-directory>
+cd filament-starter-kit
 ```
 
 ---
@@ -25,17 +25,6 @@ cd <project-directory>
 Run Composer to install all required PHP packages:
 ```bash
 composer install
-```
-
-#### Node.js Dependencies (if using frontend assets)
-If your project uses frontend assets like Filament CSS/JavaScript, install Node.js dependencies:
-```bash
-npm install
-```
-
-Then, build the assets:
-```bash
-npm run build
 ```
 
 ---
@@ -83,11 +72,6 @@ php artisan key:generate
    ```bash
    php artisan migrate
    ```
-
-If your project includes seeders, populate the database with initial data:
-```bash
-php artisan db:seed
-```
 
 ---
 
