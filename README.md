@@ -116,6 +116,7 @@ Enjoy using your Filament-powered Laravel application!
 # Application Laravel avec Filament
 
 Il s'agit d'une application de base Laravel utilisant Filament pour le panneau d'administration avec un utilisateur admin créé automatiquement. Il est fait pour aider à commencer un nouveau projet Filament rapidement. Suivez les étapes ci-dessous pour configurer le projet sur un nouvel ordinateur après avoir cloné le dépôt.
+
 ---
 
 ## Guide d'installation
