@@ -1,4 +1,5 @@
-# Filament Laravel Application (version française plus bas)
+# ENGLISH
+# Filament Laravel Application
 
 This is a Laravel application with Filament for the admin panel. Follow the steps below to set up the project on a new computer after cloning the repository.
 
@@ -111,7 +112,7 @@ Visit the application in your browser at [http://localhost:8000](http://localhos
 Enjoy using your Filament-powered Laravel application!
 
 ---
-
+# FRANÇAIS
 # Application Laravel avec Filament
 
 Il s'agit d'une application Laravel utilisant Filament pour le panneau d'administration. Suivez les étapes ci-dessous pour configurer le projet sur un nouvel ordinateur après avoir cloné le dépôt.
